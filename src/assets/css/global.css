@@ -1,4 +1,5 @@
 html,body,#app {
+  min-width: 1366px;
   margin: 0;
   padding: 0;
   height: 100%;
